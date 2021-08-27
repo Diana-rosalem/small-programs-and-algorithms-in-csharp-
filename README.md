@@ -23,12 +23,23 @@ Program with data sorting types:
 
 Bubble Sort is a sorting algorithm that can be applied to Arrays and dynamic Lists. If the goal is to sort the values in descending order, then the current position is compared with the next position and if the current position is greater than the later position, the values in that position are swapped. Otherwise, no swapping is performed, just moving on to the next pair of comparisons.
 
+![alt-text](https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/BubbleSort.gif)
+
 
 -Selection sort:
+
 Selection sort , is a sorting algorithm that tries to pass always the smallest value of the vector to the first position (or the largest depending on the order required), then the second smallest value to the second position, and so it is done successively with the (n 1) remaining elements, until the last two elements.
 
 
+![alt-text](https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/Selectionsort.gif)
+
+
+
 -Insertion sort:
+
 Insertion sort , is a simple and efficient algorithm when applied to a small number of slightly disordered elements.
 In general terms, it runs through a vector of elements elements from left to right and as it proceeds the leftmost elements in order. 
 The insertion algorithm works in much the same way way many people sort cards in a card game like poker. in a deck game like poker.
+
+
+![alt-text](https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/Insertion-sort-example.gif)
