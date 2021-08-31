@@ -43,3 +43,8 @@ The insertion algorithm works in much the same way way many people sort cards in
 
 
 ![alt-text](https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/Insertion-sort-example.gif)
+
+
+**==Battleship**:anchor: == (coming soon)
+
+Battleship  is a strategy type guessing game for two players. It is played on ruled grids on which each player's fleet of ships are marked. The locations of the fleets are concealed from the other player. Players alternate turns calling "shots" at the other player's ships, and the objective of the game is to destroy the opposing player's fleet.
