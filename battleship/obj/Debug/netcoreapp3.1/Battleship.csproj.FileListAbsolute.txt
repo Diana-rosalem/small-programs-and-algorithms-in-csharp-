@@ -1,0 +1,13 @@
+E:\Diana\UVV\4S\ing-git\battleship\bin\Debug\netcoreapp3.1\Battleship.exe
+E:\Diana\UVV\4S\ing-git\battleship\bin\Debug\netcoreapp3.1\Battleship.deps.json
+E:\Diana\UVV\4S\ing-git\battleship\bin\Debug\netcoreapp3.1\Battleship.runtimeconfig.json
+E:\Diana\UVV\4S\ing-git\battleship\bin\Debug\netcoreapp3.1\Battleship.runtimeconfig.dev.json
+E:\Diana\UVV\4S\ing-git\battleship\bin\Debug\netcoreapp3.1\Battleship.dll
+E:\Diana\UVV\4S\ing-git\battleship\bin\Debug\netcoreapp3.1\Battleship.pdb
+E:\Diana\UVV\4S\ing-git\battleship\obj\Debug\netcoreapp3.1\Battleship.csproj.AssemblyReference.cache
+E:\Diana\UVV\4S\ing-git\battleship\obj\Debug\netcoreapp3.1\Battleship.AssemblyInfoInputs.cache
+E:\Diana\UVV\4S\ing-git\battleship\obj\Debug\netcoreapp3.1\Battleship.AssemblyInfo.cs
+E:\Diana\UVV\4S\ing-git\battleship\obj\Debug\netcoreapp3.1\Battleship.csproj.CoreCompileInputs.cache
+E:\Diana\UVV\4S\ing-git\battleship\obj\Debug\netcoreapp3.1\Battleship.dll
+E:\Diana\UVV\4S\ing-git\battleship\obj\Debug\netcoreapp3.1\Battleship.pdb
+E:\Diana\UVV\4S\ing-git\battleship\obj\Debug\netcoreapp3.1\Battleship.genruntimeconfig.cache
