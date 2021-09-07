@@ -1,0 +1,13 @@
+C:\Users\Diana\Documents\GitHub\small-programs-and-algorithms-in-C-\numRandom\bin\Debug\netcoreapp3.1\numRandom.exe
+C:\Users\Diana\Documents\GitHub\small-programs-and-algorithms-in-C-\numRandom\bin\Debug\netcoreapp3.1\numRandom.deps.json
+C:\Users\Diana\Documents\GitHub\small-programs-and-algorithms-in-C-\numRandom\bin\Debug\netcoreapp3.1\numRandom.runtimeconfig.json
+C:\Users\Diana\Documents\GitHub\small-programs-and-algorithms-in-C-\numRandom\bin\Debug\netcoreapp3.1\numRandom.runtimeconfig.dev.json
+C:\Users\Diana\Documents\GitHub\small-programs-and-algorithms-in-C-\numRandom\bin\Debug\netcoreapp3.1\numRandom.dll
+C:\Users\Diana\Documents\GitHub\small-programs-and-algorithms-in-C-\numRandom\bin\Debug\netcoreapp3.1\numRandom.pdb
+C:\Users\Diana\Documents\GitHub\small-programs-and-algorithms-in-C-\numRandom\obj\Debug\netcoreapp3.1\numRandom.csproj.AssemblyReference.cache
+C:\Users\Diana\Documents\GitHub\small-programs-and-algorithms-in-C-\numRandom\obj\Debug\netcoreapp3.1\numRandom.AssemblyInfoInputs.cache
+C:\Users\Diana\Documents\GitHub\small-programs-and-algorithms-in-C-\numRandom\obj\Debug\netcoreapp3.1\numRandom.AssemblyInfo.cs
+C:\Users\Diana\Documents\GitHub\small-programs-and-algorithms-in-C-\numRandom\obj\Debug\netcoreapp3.1\numRandom.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Documents\GitHub\small-programs-and-algorithms-in-C-\numRandom\obj\Debug\netcoreapp3.1\numRandom.dll
+C:\Users\Diana\Documents\GitHub\small-programs-and-algorithms-in-C-\numRandom\obj\Debug\netcoreapp3.1\numRandom.pdb
+C:\Users\Diana\Documents\GitHub\small-programs-and-algorithms-in-C-\numRandom\obj\Debug\netcoreapp3.1\numRandom.genruntimeconfig.cache
