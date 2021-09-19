@@ -25,6 +25,8 @@ To play, just type the location you want to shoot (row x column).
 
 The classic game of Rock, Paper, Scissors is played like this: At the same time, player and bot play one of three symbols: a rock, paper or scissors. A rock hits the scissors, scissors hit the paper cutting it, and paper hits the rock covering it. 
 
+obs:Game based on Object-Oriented Programming
+
 **I hope you have fun playing**
 
 ## Data structures
