@@ -19,7 +19,13 @@ To play, just type the location you want to shoot (row x column).
 - The fleet consists of: 1 of Patrol boat(length 2),2 of Destroyer (length 3),1 Battleship(length 4),1 Carrier(length 5)
 - The player has only 40 moves to defeat the entire fleet.
 
-I hope you have fun playing
+
+
+**==Rock Paper Scissors**✊✋✌️ ==
+
+The classic game of Rock, Paper, Scissors is played like this: At the same time, player and bot play one of three symbols: a rock, paper or scissors. A rock hits the scissors, scissors hit the paper cutting it, and paper hits the rock covering it. 
+
+**I hope you have fun playing**
 
 ## Data structures
 
