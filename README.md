@@ -4,16 +4,25 @@ Programs and agorithms developed while learning the C# programming language
 
 
 
-## Programs
+## Games
 **==numRandom** :game_die:==
 
 A game created in C#, whose objective is to guess a secret number, but the player has limited attempts. 
 
-**==grade** :mortar_board:==
+**==Battleship**:anchor: == 
 
-Program that allows the teacher to track grades in a single course. It includes methods that calculate the average grade, the highest grade,the lowest grade, number of approved students and  failed students.
+BattleShip is an adaptation of the classic game, which involves guessing and strategy. It is played on 9x9 grids ruled by a fleet of ships, hidden. The player's objective is to find and sink the opponent's ships until the entire fleet is eliminated.
 
-ps: program in portuguese(pt-br)
+To play, just type the location you want to shoot (row x column).
+
+- Only numbers from 0 to 9 are valid.
+- The fleet consists of: 1 of Patrol boat(length 2),2 of Destroyer (length 3),1 Battleship(length 4),1 Carrier(length 5)
+- The player has only 40 moves to defeat the entire fleet.
+
+I hope you have fun playing
+
+## Data structures
+
 
 **==simple_sorting** :card_file_box:==
 
@@ -44,15 +53,10 @@ The insertion algorithm works in much the same way way many people sort cards in
 
 ![alt-text](https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/Insertion-sort-example.gif)
 
+## Other
 
-**==Battleship**:anchor: == 
+**==grade** :mortar_board:==
 
-BattleShip is an adaptation of the classic game, which involves guessing and strategy. It is played on 9x9 grids ruled by a fleet of ships, hidden. The player's objective is to find and sink the opponent's ships until the entire fleet is eliminated.
+Program that allows the teacher to track grades in a single course. It includes methods that calculate the average grade, the highest grade,the lowest grade, number of approved students and  failed students.
 
-To play, just type the location you want to shoot (row x column).
-
-- Only numbers from 0 to 9 are valid.
-- The fleet consists of: 1 of Patrol boat(length 2),2 of Destroyer (length 3),1 Battleship(length 4),1 Carrier(length 5)
-- The player has only 40 moves to defeat the entire fleet.
-
-I hope you have fun playing
+ps: program in portuguese(pt-br)
