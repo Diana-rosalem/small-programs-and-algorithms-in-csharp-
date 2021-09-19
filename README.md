@@ -36,14 +36,14 @@ obs: Game based on Object-Oriented Programming
 
 Program with data sorting types:
 
--Bubblesort:
+- Bubblesort:
 
 Bubble Sort is a sorting algorithm that can be applied to Arrays and dynamic Lists. If the goal is to sort the values in descending order, then the current position is compared with the next position and if the current position is greater than the later position, the values in that position are swapped. Otherwise, no swapping is performed, just moving on to the next pair of comparisons.
 
 ![alt-text](https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/BubbleSort.gif)
 
 
--Selection sort:
+- Selection sort:
 
 Selection sort , is a sorting algorithm that tries to pass always the smallest value of the vector to the first position (or the largest depending on the order required), then the second smallest value to the second position, and so it is done successively with the (n 1) remaining elements, until the last two elements.
 
@@ -52,7 +52,7 @@ Selection sort , is a sorting algorithm that tries to pass always the smallest v
 
 
 
--Insertion sort:
+- Insertion sort:
 
 Insertion sort , is a simple and efficient algorithm when applied to a small number of slightly disordered elements.
 In general terms, it runs through a vector of elements elements from left to right and as it proceeds the leftmost elements in order. 
@@ -60,6 +60,32 @@ The insertion algorithm works in much the same way way many people sort cards in
 
 
 ![alt-text](https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/Insertion-sort-example.gif)
+
+== **Lists**  ⛓==
+
+Program with  list types:
+
+- LinkedList
+
+A LinkedList is a linear data structure which stores element in the non-contiguous location. The elements in a linked list are linked with each other using pointers. Or in other words, LinkedList consists of nodes where each node contains a data field and a reference(link) to the next node in the list, being the pointer of the last null element. It is a dynamic collection which grows, according to the need of your program. It also provides fast inserting and removing elements.
+
+![alt-text](https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/linkedList1.png)
+
+- Circular list
+
+-The last element is next to the first element in the list, forming a cycle;
+
+-The list can be represented by a pointer to any initial list element;
+
+![alt-text](https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/Circular%20list.png)
+
+- Doubly linked list
+
+-It is a doubly linked list, therefore, each node points forward to the Next node and backward to the Previous node.
+
+-Given a pointer to the last element in the list, you can scroll through the list in reverse order;
+
+![alt-text](https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/dualList.jpg)
 
 ## Other
 
