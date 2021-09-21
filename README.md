@@ -87,6 +87,20 @@ A LinkedList is a linear data structure which stores element in the non-contiguo
 
 ![alt-text](https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/dualList.jpg)
 
+
+== **Stack**  📚==
+A stack is an abstract data type that holds an ordered, linear sequence of items. In contrast to a queue, a stack is a last in, first out (LIFO) structure. A real-life example is a stack of plates: you can only take a plate from the top of the stack, and you can only add a plate to the top of the stack.
+
+Mainly the following three basic operations are performed in the stack:
+
+- Push: Adds an item in the stack. If the stack is full, then it is said to be an Overflow condition.
+- Pop: Removes an item from the stack. The items are popped in the reversed order in which they are pushed. If the stack is empty, then it is said to be an Underflow condition.
+- Peek or Top: Returns the top element of the stack.
+- isEmpty: Returns true if the stack is empty, else false.
+- Clear: destroys the stack, freeing all memory used by the structure.
+- 
+Among the examples of the use of a stack in a system, we can mention the navigation between web pages or even the undo/redo mechanism of text editors.
+![alt-text](https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/stack .png)
 ## Other
 
 **==grade** :mortar_board:==
