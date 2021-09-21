@@ -100,7 +100,7 @@ Mainly the following three basic operations are performed in the stack:
 - Clear: destroys the stack, freeing all memory used by the structure.
 - 
 Among the examples of the use of a stack in a system, we can mention the navigation between web pages or even the undo/redo mechanism of text editors.
-![alt-text](https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/stack .png)
+![alt-text](https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/stack%20.png)
 ## Other
 
 **==grade** :mortar_board:==
