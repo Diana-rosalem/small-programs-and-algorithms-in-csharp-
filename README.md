@@ -97,8 +97,8 @@ Mainly the following three basic operations are performed in the stack:
 - Peek or Top: Returns the top element of the stack.
 - isEmpty: Returns true if the stack is empty, else false.
 - Clear: destroys the stack, freeing all memory used by the structure.
-
-Among the examples of the use of a stack in a system, we can mention the navigation between web pages or even the undo/redo mechanism of text editors.
+- 
+Examples of the use of a stack in a system include navigation between web pages, even the undo/redo mechanism of text editors, and also checking the opening and closing of command blocks.
 
 <img src="https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/stack%20.png" width="500" height="300" />
 
