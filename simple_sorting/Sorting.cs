@@ -20,9 +20,9 @@ namespace simple_sorting
                 {
                     if (vet[i] > vet[i + 1])
                     {
-                        int ass = vet[i];
+                        int aux = vet[i];
                         vet[i] = vet[i + 1];
-                        vet[i + 1] = ass;
+                        vet[i + 1] = aux;
                         change = true;
                     }
                 }
@@ -34,14 +34,14 @@ namespace simple_sorting
         {
             for (int i = 0; i < vet.Length; i++)
             {
-                int ass = vet[i];
+                int aux = vet[i];
                 int index = i;
                 while (index > 0 && ass < vet[index - 1])
                 {
                     vet[index] = vet[index - 1];
                     index--;
                 }
-                vet[index] = ass;
+                vet[index] = aux;
             }
 
         }
@@ -57,9 +57,9 @@ namespace simple_sorting
                         lowerIndex = i;
                     }
                 }
-                int ass = vet[j];
+                int aux = vet[j];
                 vet[j] = vet[lowerIndex];
-                vet[lowerIndex] = ass;
+                vet[lowerIndex] = aux;
             }
 
         }
