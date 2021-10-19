@@ -103,6 +103,14 @@ Examples of the use of a stack in a system include navigation between web pages,
 
 <img src="https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/stack%20.png" width="500" height="300" />
 
+== **Queue** 🚶🏽‍♀️🚶🏽🚶🏽‍♂️==
+
+A queue is a FIFO (First In First Out — the element placed at first can be accessed at first) structure which can be commonly found in many programming languages. This structure is named as “queue” because it resembles a real-world queue — people waiting in a queue.
+
+Applications of queues: Used to manage threads in multithreading, used to implement queueing systems it can also be used for controlling documents for printing and exchanging messages between computers on a network.
+
+<img src="https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/" width="500" height="300" />
+
 ## Other
 
 **==grade** :mortar_board:==
