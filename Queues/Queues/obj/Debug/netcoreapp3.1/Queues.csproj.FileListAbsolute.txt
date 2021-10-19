@@ -1,0 +1,13 @@
+E:\Diana\UVV\4S\E.Dados\prog1\Queues\Queues\obj\Debug\netcoreapp3.1\Queues.csproj.AssemblyReference.cache
+E:\Diana\UVV\4S\E.Dados\prog1\Queues\Queues\obj\Debug\netcoreapp3.1\Queues.AssemblyInfoInputs.cache
+E:\Diana\UVV\4S\E.Dados\prog1\Queues\Queues\obj\Debug\netcoreapp3.1\Queues.AssemblyInfo.cs
+E:\Diana\UVV\4S\E.Dados\prog1\Queues\Queues\obj\Debug\netcoreapp3.1\Queues.csproj.CoreCompileInputs.cache
+E:\Diana\UVV\4S\E.Dados\prog1\Queues\Queues\bin\Debug\netcoreapp3.1\Queues.exe
+E:\Diana\UVV\4S\E.Dados\prog1\Queues\Queues\bin\Debug\netcoreapp3.1\Queues.deps.json
+E:\Diana\UVV\4S\E.Dados\prog1\Queues\Queues\bin\Debug\netcoreapp3.1\Queues.runtimeconfig.json
+E:\Diana\UVV\4S\E.Dados\prog1\Queues\Queues\bin\Debug\netcoreapp3.1\Queues.runtimeconfig.dev.json
+E:\Diana\UVV\4S\E.Dados\prog1\Queues\Queues\bin\Debug\netcoreapp3.1\Queues.dll
+E:\Diana\UVV\4S\E.Dados\prog1\Queues\Queues\bin\Debug\netcoreapp3.1\Queues.pdb
+E:\Diana\UVV\4S\E.Dados\prog1\Queues\Queues\obj\Debug\netcoreapp3.1\Queues.dll
+E:\Diana\UVV\4S\E.Dados\prog1\Queues\Queues\obj\Debug\netcoreapp3.1\Queues.pdb
+E:\Diana\UVV\4S\E.Dados\prog1\Queues\Queues\obj\Debug\netcoreapp3.1\Queues.genruntimeconfig.cache
