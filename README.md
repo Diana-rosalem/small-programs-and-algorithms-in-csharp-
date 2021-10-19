@@ -109,7 +109,7 @@ A queue is a FIFO (First In First Out — the element placed at first can be acc
 
 Applications of queues: Used to manage threads in multithreading, used to implement queueing systems it can also be used for controlling documents for printing and exchanging messages between computers on a network.
 
-<img src="https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/" width="500" height="300" />
+<img src="https://github.com/Diana-rosalem/small-programs-and-algorithms-in-csharp-/blob/main/img/Queue-2-1.png" width="500" height="300" />
 
 ## Other
 
